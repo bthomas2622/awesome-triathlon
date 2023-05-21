@@ -51,6 +51,7 @@ Bike specific resources.
 - [REI: Bike Maintenance Basics](https://www.rei.com/learn/expert-advice/bike-maintenance.html)
 - [Redshift: Aero Bars for Road Bikes](https://redshiftsports.com/blogs/redshift-sports/triathlon-101-a-guide-to-aero-bars-for-road-bikes)
 - [TriNewbies: The Complete Guide to Aero Bars for Road Bikes](https://trinewbies.com/the-complete-guide-to-aero-bars-for-road-bikes/)
+- [Global Cycling Network](https://www.youtube.com/@gcn) - YouTube's biggest cycling channel. Bike maintenance videos, tips for improving your cycling, and more.
 
 ### Bike Fit and Ergonomics
 
