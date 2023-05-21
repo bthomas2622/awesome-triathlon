@@ -70,7 +70,7 @@ Run specific resources.
 Triathlon influencers to follow for inspiration.
 
 - [That Triathlon Life](https://thattriathlonlife.com/) - That Triathlon Life was created by Eric Lagerstrom and Paula Findlay.
-- [Lucy Charles-Barclay](https://www.lucycharlesbarclay.co.uk/) - Lucy Charles-Barclay is a professional triathlete from the UK.
+- [Lucy Charles-Barclay](https://www.lucycharles.com/) - Lucy Charles-Barclay is a professional triathlete from the UK.
 - [Global Triathlon Network](https://www.youtube.com/@gtn) - The Global Triathlon Network (GTN) has videos for anyone who loves triathlon: from seasoned Ironman racers to first timers – and everyone in between.
 - [Lionel Sanders](https://www.youtube.com/@Lionel.Sanders) - Lionel Sanders is a professional triathlete from Canada.
 
