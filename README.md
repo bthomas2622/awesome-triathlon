@@ -1,6 +1,6 @@
 # Awesome Triathlon Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of triathlon resources to provide guidance and inspiration. Gear, training, techniques, and more.
+> Curated list of triathlon resources to provide guidance and inspiration.
 
 ## Contents
 
@@ -18,7 +18,7 @@
 Communities of triathletes and triathlon enthusiasts.
 
 - [r/triathlon](https://www.reddit.com/r/triathlon/) - Reddit community for triathletes.
-- [Strava](https://www.strava.com/clubs/search) - Triathlon clubs on Strava. 
+- [Strava](https://www.strava.com/clubs/search) - Clubs on Strava. 
 - [USA Masters Swimming](https://www.usms.org/) - US Masters Swimming provides coached workouts, competitions, clinics and workshops for adults aged 18 and over.
 
 ## Triathlon
@@ -70,10 +70,10 @@ Run specific resources.
 
 Triathlon influencers to follow for inspiration.
 
-- [That Triathlon Life](https://thattriathlonlife.com/) - That Triathlon Life was created by Eric Lagerstrom and Paula Findlay.
+- [That Triathlon Life](https://thattriathlonlife.com/) - That Triathlon Life from Eric Lagerstrom and Paula Findlay.
 - [Lucy Charles-Barclay](https://www.lucycharles.com/) - Lucy Charles-Barclay is a professional triathlete from the UK.
 - [Global Triathlon Network](https://www.youtube.com/@gtn) - The Global Triathlon Network (GTN) has videos for anyone who loves triathlon: from seasoned Ironman racers to first timers – and everyone in between.
-- [Lionel Sanders](https://www.youtube.com/@Lionel.Sanders) - Lionel Sanders is a professional triathlete from Canada.
+- [Freestyle Tri](https://www.youtube.com/@FreestyleTri) - Freestyle Tri from Jenna Haufler and Miguel Mattox.
 
 ## Sporting Bodies
 
