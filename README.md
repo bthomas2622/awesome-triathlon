@@ -12,6 +12,7 @@
 - [Run](#run)
 - [Influencers and YouTube Channels](#influencers-and-youtube-channels)
 - [Sporting Bodies](#sporting-bodies)
+- [Books](#books)
 
 ## Communities
 
@@ -80,6 +81,14 @@ Triathlon influencers to follow for inspiration.
 - [Professional Triathletes Organization (PTO)](https://protriathletes.org/)
 - [International Triathlon Union (ITU)](https://www.triathlon.org/)
 - [Ironman](https://www.ironman.com/)
+
+## Books
+
+- [The Triathlete's Training BIble](https://www.goodreads.com/en/book/show/202197)
+- [80/20 Triathlon](https://www.goodreads.com/en/book/show/37970710)
+- [The Well-Built Triathlete: Turning Potential into Performance](https://www.goodreads.com/book/show/23148409-the-well-built-triathlete)
+- [Swim Speed Secrets for Swimmers and Triathletes](https://www.goodreads.com/en/book/show/15851044)
+- [The Power Meter Handbook: A User's Guide for Cyclists and Triathletes](https://www.goodreads.com/en/book/show/13592432)
 
 ## Contributing
 
