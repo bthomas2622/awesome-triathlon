@@ -27,6 +27,7 @@ Communities of triathletes and triathlon enthusiasts.
 Triathlon specific resources.
 
 - [Race Day & Race Travel Checklists](https://www.dcrainmaker.com/2010/06/race-day-race-travel-checklists.html)
+- [How to Get Through an Ironman Without Sh*tting Yourself](https://www.triathlete.com/nutrition/how-to-get-through-an-ironman-without-shtting-yourself/)
 
 ## Training Plans
 
