@@ -85,7 +85,7 @@ Triathlon influencers to follow for inspiration.
 
 ## Books
 
-- [The Triathlete's Training BIble](https://www.goodreads.com/en/book/show/202197)
+- [The Triathlete's Training BIble](https://www.goodreads.com/book/show/33852071-the-triathlete-s-training-bible)
 - [80/20 Triathlon](https://www.goodreads.com/en/book/show/37970710)
 - [The Well-Built Triathlete: Turning Potential into Performance](https://www.goodreads.com/book/show/23148409-the-well-built-triathlete)
 - [Swim Speed Secrets for Swimmers and Triathletes](https://www.goodreads.com/en/book/show/15851044)
